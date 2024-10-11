@@ -8,8 +8,6 @@ We use Open-Sora-Plan v1.1.0 as an examplified model of Large Vision Models.
 The detailed experimental process is as follows. First, we randomly select 5 officially provided prompts, assign 10 random seeds for each prompt, and generate videos using 15 different inference steps ranging from 10 to 80. This setup results in a total of 750 videos.
 
 ### Experimental Results
-Our experimental results are abaliable in:
-
 OneDrive:
 
 Baidu Netdisk: 
