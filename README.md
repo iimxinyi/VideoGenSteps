@@ -1,2 +1,3 @@
-# Variable_Inference_Video
-Generated videos with variable inference steps
+# VideoGenSteps
+We conduct real experiments to explore the relationship between inference steps and the video quality.
+The experimental
