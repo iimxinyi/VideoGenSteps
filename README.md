@@ -23,4 +23,4 @@ OneDrive: https://stuhiteducn-my.sharepoint.com/:u:/g/personal/zhuangxinyi_stu_h
 Baidu Netdisk: 链接: https://pan.baidu.com/s/1EdBcV39dqkx5f6qINfdtiw 提取码: mr7x
 
 ### Acknowledgement
-[Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+[Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan): It is an wonderful Large Vision Model!
